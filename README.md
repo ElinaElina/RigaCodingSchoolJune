@@ -1,0 +1,2 @@
+# RigaCodingSchoolJune
+School works
